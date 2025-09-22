@@ -1,4 +1,4 @@
-![IO Beats Banner](https://open.iobeats.com/assets/hero1.gif)
+![IO Beats Banner](https://github.com/iobeatss/iobeats-logo-assets/blob/main/hero1.gif)
 
 # 🎶 IO Beats — Web3 Music Ecosystem
 
