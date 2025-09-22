@@ -1,9 +1,9 @@
-![IO Beats Banner](https://open.iobeats.com/assets/iobeats-banner.png)
+![IO Beats Banner](https://open.iobeats.com/assets/hero1.gif)
 
 # 🎶 IO Beats — Web3 Music Ecosystem
 
 **Own the Music. Earn the Future.**  
-IO Beats is a next-generation Web3 music ecosystem connecting **NFTs, DeFi utilities, and Community Governance** across multiple blockchains.  
+IO Beats is a next-generation Web3 music ecosystem uniting **NFTs, DeFi utilities, and community governance** across multiple blockchains.
 
 ---
 
@@ -13,7 +13,7 @@ IO Beats is a next-generation Web3 music ecosystem connecting **NFTs, DeFi utili
 - 🌐 **Multi-chain** – Deployed on Ethereum, BNB Chain, Polygon, Base & Arbitrum.  
 - 🛡 **Audited by Cyberscope** – Security & transparency first.  
 - 👥 **Community Governance** – DAO, Snapshot voting & treasury.  
-- 📱 **Mobile app** in development (Android & iOS).  
+- 📲 Mobile app in development (Android & iOS)  
 
 ---
 
@@ -27,7 +27,7 @@ IO Beats is a next-generation Web3 music ecosystem connecting **NFTs, DeFi utili
 ## 🌍 Community
 - 🌐 [Website](https://iobeats.com)  
 - 🎧 [Open Player](https://open.iobeats.com)  
-- 📲 [Telegram | Official](https://t.me/iobeatsofficial) • [Community](https://t.me/iobeatscommunity)  
+- 📲 [Telegram Official](https://t.me/iobeatsofficial) • [Community](https://t.me/iobeatscommunity)  
 - 🐦 [X / Twitter](https://x.com/iobeats)  
 - 💬 [Discord](https://discord.com/invite/7bUdykX1j)  
 - 📘 [GitBook Docs](https://docs.iobeats.com)  
@@ -45,18 +45,20 @@ IO Beats is a next-generation Web3 music ecosystem connecting **NFTs, DeFi utili
 
 ---
 
-## 🗓 Roadmap Q3–Q4 2025
-### ✅ Q3 2025
-- Token liquidity expansion (Uniswap V3, Gamma Strategies, Aerodrome gauge).  
-- Rooftop Events (Montreal, Toronto, Vancouver).  
-- Airdrop Campaigns & NFT Shareholder Pass V3.  
+## 🗓 Roadmap from Roadmap IO Beats
+Based on [our official roadmap](https://open.iobeats.com/roadmap-iob):
 
-### 🚀 Q4 2025
-- Launch **Mobile App (Android + iOS)**.  
-- Expanded DeFi integrations (Beefy, Gamma, Arrakis).  
-- Governance DAO activation on Snapshot.  
-- Partnerships & sponsorships (events, brands, Web3 collabs).  
+- 🎯 **Current**  
+  - Mainnet launch / roll-out live features  
+  - Continued platform stability & performance optimization  
+  - Community growth & engagement initiatives  
+
+- 🔜 **Next Up**  
+  - Mobile app release (iOS & Android)  
+  - Expanded DeFi integrations & yield opportunities  
+  - DAO governance activation & voting mechanisms  
+  - Partnerships with Web3 projects and cross-chain collaborations  
 
 ---
 
-✨ *One team, one dream — IO Beats.*
+✨ *One team, one dream — IO Beats*
