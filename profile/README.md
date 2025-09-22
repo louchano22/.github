@@ -11,7 +11,14 @@ iO Beats is a next-generation Web3 music ecosystem uniting **NFTs**, **DeFi util
 
 ## 🔗 Quick Menu
 - **Repos:** [IOB Smart Contracts](https://github.com/iobeatss/IOB-Smart-contract) · [BeatsApe](https://github.com/iobeatss/BeatsApe) · [iobeats-docs](https://github.com/iobeatss/iobeats-docs) · [iobeats-logo-assets](https://github.com/iobeatss/iobeats-logo-assets)  
-- **Docs:** [GitBook](https://whitepaper.iobeats.com/) · [Whitepaper (PDF)](https://open.iobeats.com/doc/iobeats-white-paper.pdf) · [Pitch Deck (PDF)](https://open.iobeats.com/doc/iobeats-pitch-deck.pdf) · [Gouvernance (PDF)](https://open.iobeats.com/doc/iobeats-Governance-plan.pdf) · [Token Distrubution (PDF)](https://open.iobeats.com/doc/iobeats-token-distribution.pdf)
+## 📚 Docs
+<ul>
+  <li><a href="https://whitepaper.iobeats.com/" target="_blank">GitBook</a></li>
+  <li><a href="https://open.iobeats.com/doc/iobeats-white-paper.pdf" target="_blank">Whitepaper (PDF)</a></li>
+  <li><a href="https://open.iobeats.com/doc/iobeats-pitch-deck.pdf" target="_blank">Pitch Deck (PDF)</a></li>
+  <li><a href="https://open.iobeats.com/doc/iobeats-governance.pdf" target="_blank">Gouvernance (PDF)</a></li>
+  <li><a href="https://open.iobeats.com/doc/iobeats-token-distribution.pdf" target="_blank">Token Distribution (PDF)</a></li>
+</ul>
 
 
 ---
