@@ -1,6 +1,6 @@
 # IO Beats Banner
 
-![IO Beats Banner](https://raw.githubusercontent.com/iobeatss/iobeats-logo-assets/main/banners/iobeats-banner-1280x640.png)
+![IO Beats Banner](https://raw.githubusercontent.com/iobeatss/iobeats-logo-assets/main/hero1.gif)
 
 ---
 
