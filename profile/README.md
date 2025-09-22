@@ -19,8 +19,8 @@ iO Beats is a next-generation Web3 music ecosystem uniting **NFTs**, **DeFi util
 
 ## 🔗 Quick Menu
 - **Repos:** [IOB Smart Contracts](https://github.com/iobeatss/IOB-Smart-contract) · [BeatsApe](https://github.com/iobeatss/BeatsApe) · [iobeats-docs](https://github.com/iobeatss/iobeats-docs) · [iobeats-logo-assets](https://github.com/iobeatss/iobeats-logo-assets)
-- **Docs:** [GitBook](#) · [Whitepaper (PDF)](#) · [Pitch Deck (PDF)](#)
-- **App:** [Open Player](https://iobeats.com/marketplace) · [Token Page](#)
+- **Docs:** [GitBook](https://whitepaper.iobeats.com/) · [Whitepaper (PDF)](https://open.iobeats.com/doc/iobeats-white-paper.pdf) · [Pitch Deck (PDF)](https://open.iobeats.com/doc/iobeats-pitch-deck.pdf)
+- **App:** [Open Player](https://open.iobeats.com)
 
 > Remplace les `(#)` par tes liens réels quand tu les as.
 
@@ -53,25 +53,21 @@ iO Beats is a next-generation Web3 music ecosystem uniting **NFTs**, **DeFi util
 
 ## 🌍 Community
 - 🌐 **Website:** https://iobeats.com  
-- 🎧 **Open Player:** https://iobeats.com/marketplace  
-- 📲 **Telegram (Official):** #  
-- 👥 **Telegram (Community):** #  
-- 🐦 **X / Twitter:** #  
-- 💬 **Discord:** #  
-- 📘 **GitBook Docs:** #  
-- 🪙 **Token Page:** #
-
-> Remplace `#` par tes URLs officielles.
+- 🎧 **Open Player:** https://open.iobeats.com  
+- 📲 **Telegram (Official):** https://t.me/iobeatsofficial  
+- 👥 **Telegram (Community):** https://t.me/iobeatscommunity  
+- 🐦 **X / Twitter:** https://x.com/IoBeats
+- 💬 **Discord:** https://discord.com/invite/7bJudyXJJj    
 
 ---
 
 ## 🛠 Badges
-![Audit](https://img.shields.io/badge/Audit-Cyberscope-brightgreen?style=for-the-badge&logo=shield)
-![Solidity](https://img.shields.io/badge/Solidity-0.8.24-blue?style=for-the-badge&logo=solidity)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge&logo=open-source-initiative)
-![Deployment](https://img.shields.io/badge/Deployed-MultiChain-purple?style=for-the-badge&logo=ethereum)
-![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-Framework-blue?style=for-the-badge&logo=openzeppelin)
-![Docs](https://img.shields.io/badge/Docs-Available-brightgreen?style=for-the-badge&logo=readthedocs)
+[![Audit](https://img.shields.io/badge/Audit-Cyberscope-brightgreen?style=for-the-badge&logo=shield)](https://github.com/iobeatss/IOB-Smart-contract/audits)
+[![Solidity](https://img.shields.io/badge/Solidity-0.8.24-blue?style=for-the-badge&logo=solidity)](https://docs.soliditylang.org/en/v0.8.24/)
+[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge&logo=open-source-initiative)](https://github.com/iobeatss/IOB-Smart-contract/blob/main/LICENSE)
+[![Deployment](https://img.shields.io/badge/Deployed-MultiChain-purple?style=for-the-badge&logo=ethereum)](https://github.com/iobeatss/IOB-Smart-contract#deployment)
+[![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-Framework-blue?style=for-the-badge&logo=openzeppelin)](https://docs.openzeppelin.com/)
+[![Docs](https://img.shields.io/badge/Docs-Available-brightgreen?style=for-the-badge&logo=readthedocs)](https://github.com/iobeatss/iobeats-docs)
 
 ---
 
