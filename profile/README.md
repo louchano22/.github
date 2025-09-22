@@ -22,8 +22,6 @@ iO Beats is a next-generation Web3 music ecosystem uniting **NFTs**, **DeFi util
 - **Docs:** [GitBook](https://whitepaper.iobeats.com/) · [Whitepaper (PDF)](https://open.iobeats.com/doc/iobeats-white-paper.pdf) · [Pitch Deck (PDF)](https://open.iobeats.com/doc/iobeats-pitch-deck.pdf)
 - **App:** [Open Player](https://open.iobeats.com)
 
-> Remplace les `(#)` par tes liens réels quand tu les as.
-
 ---
 
 ## 📌 About iO Beats
@@ -71,8 +69,7 @@ iO Beats is a next-generation Web3 music ecosystem uniting **NFTs**, **DeFi util
 
 ---
 
-## 🗓 Roadmap from *Roadmap iO Beats*
-**Based on our official roadmap:**
+## 🗓 iO Beats Roadmap
 
 ### 🎯 Current
 - Mainnet launch / roll-out live features  
