@@ -1,4 +1,3 @@
-# IO Beats Banner
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/iobeatss/iobeats-logo-assets/main/hero1.gif" 
