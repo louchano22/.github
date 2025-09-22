@@ -89,6 +89,3 @@ iO Beats is a next-generation Web3 music ecosystem uniting **NFTs**, **DeFi util
 - DAO governance activation & voting mechanisms  
 - Partnerships with Web3 projects and cross-chain collaborations
 
----
-
-✨ **One team, one dream — iO Beats**
