@@ -38,6 +38,7 @@ IO Beats is a next-generation Web3 music ecosystem uniting **NFTs, DeFi utilitie
 ---
 
 ## 🛠 Badges
+
 ![Audit](https://img.shields.io/badge/Audit-Cyberscope-brightgreen?style=for-the-badge&logo=shield)  
 ![Solidity](https://img.shields.io/badge/Solidity-0.8.24-blue?style=for-the-badge&logo=solidity)  
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge&logo=open-source-initiative)  
