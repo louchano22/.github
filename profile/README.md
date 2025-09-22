@@ -2,14 +2,14 @@
   <img src="https://raw.githubusercontent.com/iobeatss/iobeats-logo-assets/main/hero1.gif" alt="IO Beats Banner" width="100%" />
 </p>
 
-# 🎶 IO Beats — Web3 Music Ecosystem
+# 🎶 iO Beats — Web3 Music Ecosystem
 
 **Own the Music. Earn the Future.**  
-IO Beats is a next-generation Web3 music ecosystem uniting **NFTs, DeFi utilities, and community governance** across multiple blockchains.
+iO Beats is a next-generation Web3 music ecosystem uniting **NFTs, DeFi utilities, and community governance** across multiple blockchains.
 
 ---
 
-## 📌 About IO Beats
+## 📌 About iO Beats
 - 🎵 **NFT Music Marketplace** – Mint, trade & own music NFTs.  
 - 💰 **DeFi Utilities** – Staking, vaults, rewards, airdrops.  
 - 🌐 **Multi-chain** – Deployed on Ethereum, BNB Chain, Polygon, Base & Arbitrum.  
@@ -48,7 +48,7 @@ IO Beats is a next-generation Web3 music ecosystem uniting **NFTs, DeFi utilitie
 
 ---
 
-## 🗓 Roadmap from Roadmap IO Beats
+## 🗓 Roadmap from Roadmap iO Beats
 Based on [our official roadmap](https://open.iobeats.com/roadmap-iob):
 
 - 🎯 **Current**  
@@ -64,4 +64,4 @@ Based on [our official roadmap](https://open.iobeats.com/roadmap-iob):
 
 ---
 
-✨ *One team, one dream — IO Beats*
+✨ *One team, one dream — iO Beats*
