@@ -13,7 +13,7 @@ iO Beats is a next-generation Web3 music ecosystem uniting **NFTs**, **DeFi util
 - **Repos:** [IOB Smart Contracts](https://github.com/iobeatss/IOB-Smart-contract) · [BeatsApe](https://github.com/iobeatss/BeatsApe) · [iobeats-docs](https://github.com/iobeatss/iobeats-docs) · [iobeats-logo-assets](https://github.com/iobeatss/iobeats-logo-assets)  
 ## 📚 Docs
 <ul>
-  <li><a href="https://whitepaper.iobeats.com/" target="_blank">GitBook</a></li>
+  <li><a href="https://github.com/iobeatss/iobeats-docs/blob/main/iobeats-white-paper.pdf" target="_blank">GitBook</a></li>
   <li><a href="https://open.iobeats.com/doc/iobeats-white-paper.pdf" target="_blank">Whitepaper (PDF)</a></li>
   <li><a href="https://open.iobeats.com/doc/iobeats-pitch-deck.pdf" target="_blank">Pitch Deck (PDF)</a></li>
   <li><a href="https://open.iobeats.com/doc/iobeats-governance.pdf" target="_blank">Gouvernance (PDF)</a></li>
