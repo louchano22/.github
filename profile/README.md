@@ -32,14 +32,14 @@ We provide **audit-ready documentation**, lock/vesting schedules, and public add
 📂 Explore our [Treasury Repository](https://github.com/iobeatss/treasury)  
 
 Key docs available:  
-- 🔐 [Audit Ready: Treasury Safe Multichain](https://github.com/iobeatss/treasury/blob/main/docs/treasury/IOB_Treasury_Safe_Multichain_AuditReady.pdf)  
-- 🏦 [Safe Structure](https://github.com/iobeatss/treasury/blob/main/docs/treasury/IOB_Safe_Structure.pdf)  
-- 🛡 [Multisig Architecture](https://github.com/iobeatss/treasury/blob/main/docs/treasury/IOB_Safe_Multisig_Architecture.pdf)  
-- 📘 [Governance & Branding](https://github.com/iobeatss/treasury/blob/main/docs/treasury/IOB_Treasury_Governance.pdf)  
-- 🌍 [Treasury Multichain Report (EN)](https://github.com/iobeatss/treasury/blob/main/docs/treasury/IOB_Treasury_Multichain_EN_v1_fixed.pdf)  
-- 📑 [Executive Summary](https://github.com/iobeatss/treasury/blob/main/docs/treasury/IOB_Treasury_Multichain_Executive_Summary.pdf)  
-- 📊 [Appendix B: Locks & Vesting](https://github.com/iobeatss/treasury/blob/main/docs/treasury/IOB_Treasury_AppendixB_Locks_Vesting_v4.pdf)  
-- 🔗 [Vault Addresses](https://github.com/iobeatss/treasury/blob/main/docs/treasury/addresses.md)  
+- 🔐 [Audit Ready: Treasury Safe Multichain](https://github.com/iobeatss/treasury/blob/main/docs/IOB_Treasury_Safe_Multichain_AuditReady.pdf)  
+- 🏦 [Safe Structure](https://github.com/iobeatss/treasury/blob/main/docs/IOB_Safe_Structure.pdf)  
+- 🛡 [Multisig Architecture](https://github.com/iobeatss/treasury/blob/main/docs/IOB_Safe_Multisig_Architecture.pdf)  
+- 📘 [Governance & Branding](https://github.com/iobeatss/treasury/blob/main/docs/IOB_Treasury_Governance.pdf)  
+- 🌍 [Treasury Multichain Report (EN)](https://github.com/iobeatss/treasury/blob/main/docs/IOB_Treasury_Multichain_EN_v1_fixed.pdf)  
+- 📑 [Executive Summary](https://github.com/iobeatss/treasury/blob/main/docs/IOB_Treasury_Multichain_Executive_Summary.pdf)  
+- 📊 [Appendix B: Locks & Vesting](https://github.com/iobeatss/treasury/blob/main/docs/IOB_Treasury_AppendixB_Locks_Vesting_v4.pdf)  
+- 🔗 [Vault Addresses](https://github.com/iobeatss/treasury/blob/main/docs/addresses.md)  
 
 ---
 
