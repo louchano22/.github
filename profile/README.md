@@ -49,7 +49,7 @@ Key docs available:
 - 📲 **Telegram (Official):** https://t.me/iobeatsofficial  
 - 👥 **Telegram (Community):** https://t.me/iobeatscommunity  
 - 🐦 **X / Twitter:** https://x.com/IoBeats  
-- 💬 **Discord:** https://discord.com/invite/7bJudyXJJj
+- 💬 **Discord:** https://discord.com/invite/rQSCaxPNs5
 
 ---
 
