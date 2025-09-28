@@ -10,7 +10,7 @@ iO Beats is a next-generation Web3 music ecosystem uniting **NFTs**, **DeFi util
 ---
 
 ## 🔗 Quick Menu
-- **Repos:** [IOB Smart Contracts](https://github.com/iobeatss/IOB-Smart-contract) · [BeatsApe](https://github.com/iobeatss/BeatsApe) · [iobeats-docs](https://github.com/iobeatss/iobeats-docs) · [iobeats-logo-assets](https://github.com/iobeatss/iobeats-logo-assets)
+- **Repos:** [IOB Smart Contracts](https://github.com/iobeatss/IOB-Smart-contract) · [BeatsApe](https://github.com/iobeatss/BeatsApe) · [iobeats-docs](https://github.com/iobeatss/iobeats-docs) · [iobeats-logo-assets](https://github.com/iobeatss/iobeats-logo-assets) · [Treasury](https://github.com/iobeatss/treasury)
 - **Docs:** [GitBook](https://whitepaper.iobeats.com/) · [Whitepaper (PDF)](https://open.iobeats.com/doc/iobeats-white-paper.pdf) · [Pitch Deck (PDF)](https://open.iobeats.com/doc/iobeats-pitch-deck.pdf) · [Gouvernance (PDF)](https://open.iobeats.com/doc/iobeats-Governance-plan.pdf) · [Token Distribution (PDF)](https://open.iobeats.com/doc/iobeats-token-distribution.pdf)
 
 ---
@@ -22,6 +22,24 @@ iO Beats is a next-generation Web3 music ecosystem uniting **NFTs**, **DeFi util
 - 🛡 **Audited by Cyberscope** – Security & transparency first.  
 - 👥 **Community Governance** – DAO, Snapshot voting & treasury.  
 - 📲 **Mobile app** in development (Android & iOS).
+
+---
+
+## 💎 Treasury Transparency
+All treasury operations are managed with **multisig 4/7 Safe** across 5 chains: Ethereum, Base, Polygon, Arbitrum, BNB.  
+We provide **audit-ready documentation**, lock/vesting schedules, and public addresses.
+
+📂 Explore our [Treasury Repository](https://github.com/iobeatss/treasury)  
+
+Key docs available:  
+- 🔐 [Audit Ready: Treasury Safe Multichain](https://github.com/iobeatss/treasury/blob/main/docs/treasury/IOB_Treasury_Safe_Multichain_AuditReady.pdf)  
+- 🏦 [Safe Structure](https://github.com/iobeatss/treasury/blob/main/docs/treasury/IOB_Safe_Structure.pdf)  
+- 🛡 [Multisig Architecture](https://github.com/iobeatss/treasury/blob/main/docs/treasury/IOB_Safe_Multisig_Architecture.pdf)  
+- 📘 [Governance & Branding](https://github.com/iobeatss/treasury/blob/main/docs/treasury/IOB_Treasury_Governance.pdf)  
+- 🌍 [Treasury Multichain Report (EN)](https://github.com/iobeatss/treasury/blob/main/docs/treasury/IOB_Treasury_Multichain_EN_v1_fixed.pdf)  
+- 📑 [Executive Summary](https://github.com/iobeatss/treasury/blob/main/docs/treasury/IOB_Treasury_Multichain_Executive_Summary.pdf)  
+- 📊 [Appendix B: Locks & Vesting](https://github.com/iobeatss/treasury/blob/main/docs/treasury/IOB_Treasury_AppendixB_Locks_Vesting_v4.pdf)  
+- 🔗 [Vault Addresses](https://github.com/iobeatss/treasury/blob/main/docs/treasury/addresses.md)  
 
 ---
 
