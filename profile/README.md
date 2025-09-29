@@ -11,13 +11,13 @@ iO Beats is a next-generation Web3 music ecosystem uniting **NFTs**, **DeFi util
 
 ## 🔗 Quick Menu
 - **Repos:**  
-  [IOB Smart Contracts](https://github.com/iobeatss/IOB-Smart-contract) ·  
-  [iobeats-player](https://github.com/iobeatss/iobeats-player) ·  
-  [BeatsApe](https://github.com/iobeatss/BeatsApe) ·  
-  [iobeats-docs](https://github.com/iobeatss/iobeats-docs) ·  
-  [iobeats-logo-assets](https://github.com/iobeatss/iobeats-logo-assets) ·  
-  [Treasury](https://github.com/iobeatss/treasury) ·  
-  [iobeats-events](https://github.com/iobeatss/iobeats-events) ·  
+  [IOB Smart Contracts](https://github.com/iobeatss/IOB-Smart-contract)   
+  [iobeats-player](https://github.com/iobeatss/iobeats-player)   
+  [BeatsApe](https://github.com/iobeatss/BeatsApe)   
+  [iobeats-docs](https://github.com/iobeatss/iobeats-docs)   
+  [iobeats-logo-assets](https://github.com/iobeatss/iobeats-logo-assets)   
+  [Treasury](https://github.com/iobeatss/treasury)   
+  [iobeats-events](https://github.com/iobeatss/iobeats-events)   
   [iobeats-marketing](https://github.com/iobeatss/iobeats-marketing)  
 
 - **Docs:**  
