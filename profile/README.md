@@ -11,7 +11,7 @@ iO Beats is a next-generation Web3 music ecosystem uniting **NFTs**, **DeFi util
 
 ## 🔗 Quick Menu
 - **Repos:**  
-  [IOB Smart Contracts](https://github.com/iobeatss/IOB-Smart-contract) . [iobeats-player](https://github.com/iobeatss/iobeats-player) . [BeatsApe](https://github.com/iobeatss/BeatsApe) . [iobeats-docs](https://github.com/iobeatss/iobeats-docs) . [iobeats-logo-assets(https://github.com/iobeatss/iobeats-logo-assets) . [Treasury](https://github.com/iobeatss/treasury) . [iobeats-events](https://github.com/iobeatss/iobeats-events) . [iobeats-marketing](https://github.com/iobeatss/iobeats-marketing)  
+  [IOB Smart Contracts](https://github.com/iobeatss/IOB-Smart-contract) . [iobeats-player](https://github.com/iobeatss/iobeats-player) . [BeatsApe](https://github.com/iobeatss/BeatsApe) . [iobeats-docs](https://github.com/iobeatss/iobeats-docs) . [iobeats-logo-assets](https://github.com/iobeatss/iobeats-logo-assets) . [Treasury](https://github.com/iobeatss/treasury) . [iobeats-events](https://github.com/iobeatss/iobeats-events) . [iobeats-marketing](https://github.com/iobeatss/iobeats-marketing)  
 
 - **Docs:**  
   [GitBook](https://whitepaper.iobeats.com/) · [Whitepaper (PDF)](https://open.iobeats.com/doc/iobeats-white-paper.pdf) · [Pitch Deck (PDF)](https://open.iobeats.com/doc/iobeats-pitch-deck.pdf) · [Governance (PDF)](https://open.iobeats.com/doc/iobeats-Governance-plan.pdf) · [Token Distribution (PDF)](https://open.iobeats.com/doc/iobeats-token-distribution.pdf)
