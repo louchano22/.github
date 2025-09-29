@@ -10,8 +10,11 @@ iO Beats is a next-generation Web3 music ecosystem uniting **NFTs**, **DeFi util
 ---
 
 ## 🔗 Quick Menu
-- **Repos:** [IOB Smart Contracts](https://github.com/iobeatss/IOB-Smart-contract) · [BeatsApe](https://github.com/iobeatss/BeatsApe) · [iobeats-docs](https://github.com/iobeatss/iobeats-docs) · [iobeats-logo-assets](https://github.com/iobeatss/iobeats-logo-assets) · [Treasury](https://github.com/iobeatss/treasury)
-- **Docs:** [GitBook](https://whitepaper.iobeats.com/) · [Whitepaper (PDF)](https://open.iobeats.com/doc/iobeats-white-paper.pdf) · [Pitch Deck (PDF)](https://open.iobeats.com/doc/iobeats-pitch-deck.pdf) · [Gouvernance (PDF)](https://open.iobeats.com/doc/iobeats-Governance-plan.pdf) · [Token Distribution (PDF)](https://open.iobeats.com/doc/iobeats-token-distribution.pdf)
+- **Repos:**  
+  [IOB Smart Contracts](https://github.com/iobeatss/IOB-Smart-contract) · [iobeats-player](https://github.com/iobeatss/iobeats-player) · [BeatsApe](https://github.com/iobeatss/BeatsApe) · [iobeats-docs](https://github.com/iobeatss/iobeats-docs) · [iobeats-logo-assets](https://github.com/iobeatss/iobeats-logo-assets) · [Treasury](https://github.com/iobeatss/treasury)  
+
+- **Docs:**  
+  [GitBook](https://whitepaper.iobeats.com/) · [Whitepaper (PDF)](https://open.iobeats.com/doc/iobeats-white-paper.pdf) · [Pitch Deck (PDF)](https://open.iobeats.com/doc/iobeats-pitch-deck.pdf) · [Governance (PDF)](https://open.iobeats.com/doc/iobeats-Governance-plan.pdf) · [Token Distribution (PDF)](https://open.iobeats.com/doc/iobeats-token-distribution.pdf)
 
 ---
 
@@ -21,7 +24,7 @@ iO Beats is a next-generation Web3 music ecosystem uniting **NFTs**, **DeFi util
 - 🌐 **Multi-chain** – Deployed on **Ethereum, BNB Chain, Polygon, Base & Arbitrum**.  
 - 🛡 **Audited by Cyberscope** – Security & transparency first.  
 - 👥 **Community Governance** – DAO, Snapshot voting & treasury.  
-- 📲 **Mobile app** in development (Android & iOS).
+- 📲 **Mobile app** in development (Android & iOS).  
 
 ---
 
@@ -31,7 +34,7 @@ We provide **audit-ready documentation**, lock/vesting schedules, and public add
 
 📂 Explore our [Treasury Repository](https://github.com/iobeatss/treasury)  
 
-Key docs available:  
+### Key Docs
 - 🔐 [Audit Ready: Treasury Safe Multichain](https://github.com/iobeatss/treasury/blob/main/docs/IOB_Treasury_Safe_Multichain_AuditReady.pdf)  
 - 🏦 [Safe Structure](https://github.com/iobeatss/treasury/blob/main/docs/IOB_Safe_Structure.pdf)  
 - 🛡 [Multisig Architecture](https://github.com/iobeatss/treasury/blob/main/docs/IOB_Safe_Multisig_Architecture.pdf)  
@@ -44,12 +47,11 @@ Key docs available:
 ---
 
 ## 🌍 Community
-- 🌐 **Website:** https://iobeats.com  
-- 🎧 **Open Player:** https://open.iobeats.com  
-- 📲 **Telegram (Official):** https://t.me/iobeatsofficial  
-- 👥 **Telegram (Community):** https://t.me/iobeatscommunity  
-- 🐦 **X / Twitter:** https://x.com/IoBeats  
-- 💬 **Discord:** https://discord.com/invite/rQSCaxPNs5
+- 🌐 [Website](https://iobeats.com)  
+- 🎧 [Open Player](https://open.iobeats.com)  
+- 📲 [Telegram (Official)](https://t.me/iobeatsofficial) · [Telegram (Community)](https://t.me/iobeatscommunity)  
+- 🐦 [X / Twitter](https://x.com/IoBeats)  
+- 💬 [Discord](https://discord.com/invite/rQSCaxPNs5)  
 
 ---
 
@@ -61,22 +63,22 @@ Key docs available:
 [![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-Framework-blue.svg)](https://docs.openzeppelin.com/)
 [![Docs](https://img.shields.io/badge/Docs-Available-brightgreen.svg)](https://github.com/iobeatss/iobeats-docs)
 
-**Contracts quick links**  
-- Core: https://github.com/iobeatss/IOB-Smart-contract/blob/main/IOBToken_0.8.24.sol  
-- Legacy: https://github.com/iobeatss/IOB-Smart-contract/blob/main/legacy/iobeats_0.8.16_legacy.sol  
-- Flattened: https://github.com/iobeatss/IOB-Smart-contract/blob/main/flattened/IOBToken_0.8.24_flat.sol
+### Contracts Quick Links
+- Core: [IOBToken_0.8.24.sol](https://github.com/iobeatss/IOB-Smart-contract/blob/main/IOBToken_0.8.24.sol)  
+- Legacy: [iobeats_0.8.16_legacy.sol](https://github.com/iobeatss/IOB-Smart-contract/blob/main/legacy/iobeats_0.8.16_legacy.sol)  
+- Flattened: [IOBToken_0.8.24_flat.sol](https://github.com/iobeatss/IOB-Smart-contract/blob/main/flattened/IOBToken_0.8.24_flat.sol)  
 
 ---
 
-## 🗓 iO Beats Roadmap
+## 🗓 Roadmap
 
 ### 🎯 Current
 - Mainnet launch / roll-out of live features  
 - Platform stability & performance improvements  
-- Community growth & engagement initiatives
+- Community growth & engagement initiatives  
 
 ### 🔜 Next Up
 - Mobile app release (iOS & Android)  
 - Expanded DeFi integrations & yield opportunities  
 - DAO governance activation & voting mechanisms  
-- Partnerships with Web3 projects and cross-chain collaborations
+- Partnerships with Web3 projects and cross-chain collaborations  
