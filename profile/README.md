@@ -67,7 +67,22 @@ We provide **audit-ready documentation**, lock/vesting schedules, and public add
 
 ## 🗓 IO Beats — Global Roadmap (2025 → 2026)
 
+Building the future of music and Web3, one milestone at a time.  
+Our roadmap is designed to be **transparent, decentralized, and community-driven** —  
+uniting artists, fans, and partners across blockchain, DeFi, and real-world events.  
+
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {
+  'primaryColor': '#FF9012',
+  'primaryTextColor': '#000000',
+  'primaryBorderColor': '#FF9012',
+  'lineColor': '#333333',
+  'secondaryColor': '#FFD29A',
+  'tertiaryColor': '#FFFFFF',
+  'noteBkgColor': '#F3F4F6',
+  'noteTextColor': '#111111'
+}}}%%
+
 timeline
     title IO Beats Roadmap
 
@@ -111,6 +126,5 @@ timeline
              : Strategic Partnerships (Lifestyle + Tech)
              : Global Recap Report + Sponsor Metrics
              : Define 2027 Roadmap
-
 
 ---
