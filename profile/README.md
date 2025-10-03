@@ -64,7 +64,6 @@ We provide **audit-ready documentation**, lock/vesting schedules, and public add
 [![Docs](https://img.shields.io/badge/Docs-Available-brightgreen.svg)](https://github.com/iobeatss/iobeats-docs)
 
 ---
-
 ## 🗓 IO Beats — Global Roadmap (2025 → 2026)
 
 Building the future of music and Web3, one milestone at a time.  
@@ -108,13 +107,14 @@ timeline
              : Holder Loyalty Rewards (staking, NFT perks)
              : Web3 Streaming (IPFS/Arweave)
              : NFT V3 Shareholder Pass + Merch campaign
+             : **Tier-2 CEX Listings (MEXC, Gate, Bitmart, etc.)**
 
-    Q2 2026 : Tier-1 CEX Listing Targets
-             : Partnerships with music & Web3 brands
+    Q2 2026 : Partnerships with music & Web3 brands
              : AI Recommendations + NFT Fan Clubs
              : Community Expansion (Asia, MENA, EU)
              : Rooftop Tour Canada (MTL 🎉, TO 🎶, VAN 🌆)
              : Live Social Coverage + Exclusive NFT Drops
+             : **Tier-1 CEX Listings (Binance, Coinbase, KuCoin, Bybit, OKX)**
 
     Q3 2026 : Community Feedback from Rooftop Tour
              : DAO Proposal → Fund Global Expansion
@@ -126,4 +126,5 @@ timeline
              : Strategic Partnerships (Lifestyle + Tech)
              : Global Recap Report + Sponsor Metrics
              : Define 2027 Roadmap
+
 ---
