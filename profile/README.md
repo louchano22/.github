@@ -46,15 +46,6 @@ We provide **audit-ready documentation**, lock/vesting schedules, and public add
 
 ---
 
-## 🌍 Community
-- 🌐 [Website](https://iobeats.com)
-- 🎧 [Open Player](https://open.iobeats.com)
-- 📲 [Telegram (Official)](https://t.me/iobeatsofficial) · [Telegram (Community)](https://t.me/iobeatscommunity)
-- 🐦 [X / Twitter](https://x.com/IoBeats)
-- 💬 [Discord](https://discord.com/invite/rQSCaxPNs5)
-
----
-
 ## 🗓 Global Roadmap
 
 Building the future of **music × Web3 × DeFi**, one milestone at a time.  
@@ -140,6 +131,15 @@ timeline
                 : IO Beats Metaverse Music Festival
                 : Global Partnerships
                 : Roadmap 2027
+
+---
+
+## 🌍 Community
+- 🌐 [Website](https://iobeats.com)
+- 🎧 [Open Player](https://open.iobeats.com)
+- 📲 [Telegram (Official)](https://t.me/iobeatsofficial) · [Telegram (Community)](https://t.me/iobeatscommunity)
+- 🐦 [X / Twitter](https://x.com/IoBeats)
+- 💬 [Discord](https://discord.com/invite/rQSCaxPNs5)
 
 ---
 
