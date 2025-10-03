@@ -64,6 +64,13 @@ We provide **audit-ready documentation**, lock/vesting schedules, and public add
 [![Docs](https://img.shields.io/badge/Docs-Available-brightgreen.svg)](https://github.com/iobeatss/iobeats-docs)
 
 ---
+## 🗓 IO Beats — Global Roadmap (2025 → 2026)
+
+Building the future of music and Web3, one milestone at a time.  
+Our roadmap is designed to be **transparent, decentralized, and community-driven** —  
+uniting artists, fans, and partners across blockchain, DeFi, and real-world events.  
+
+```mermaid
 
 %%{init: {'theme': 'base', 'themeVariables': {
   'primaryColor': '#FF9012',
