@@ -65,6 +65,52 @@ We provide **audit-ready documentation**, lock/vesting schedules, and public add
 
 ---
 
+## 🗓 IO Beats — Global Roadmap (2025 → 2026)
+
+```mermaid
+timeline
+    title IO Beats Roadmap
+
+    Q3 2025 : Multi-chain Presale (Base → BNB → ETH → Polygon → Arbitrum)
+             : Multi-currency checkout (crypto + fiat)
+             : $IOB/WETH Liquidity on Aerodrome v3 (Base, veAERO rewards)
+             : Safe Multisig + Vesting Proofs
+             : In-player Ad System (banner, audio, video)
+             : Rooftop Tour Canada announced (venues, sponsors, ambassadors)
+
+    Q4 2025 : iO Beats DAO Governance voting live (Snapshot)
+             : Artist Verification + Ambassador Portal
+             : NFT Creator Studio (music, podcasts, exclusives)
+             : Launch Android App (Beta)
+             : Submit iOS App
+             : BeatApe meme token utilities
+             : Events sponsor onboarding + promo campaigns
+
+    Q1 2026 : Vaults/Staking Launch (Beefy + Gamma)
+             : Cross-chain NFT Marketplace (ETH, BNB, Polygon, Base, Arbitrum)
+             : Dynamic NFT Royalties (cross-chain)
+             : iO Beats Player v2.0.73 Final Release
+             : Holder Loyalty Rewards (staking, NFT perks)
+             : Web3 Streaming (IPFS/Arweave)
+             : NFT V3 Shareholder Pass + Merch campaign
+
+    Q2 2026 : Tier-1 CEX Listing Targets
+             : Partnerships with music & Web3 brands
+             : AI Recommendations + NFT Fan Clubs
+             : Community Expansion (Asia, MENA, EU)
+             : Rooftop Tour Canada (MTL 🎉, TO 🎶, VAN 🌆)
+             : Live Social Coverage + Exclusive NFT Drops
+
+    Q3 2026 : Community Feedback from Rooftop Tour
+             : DAO Proposal → Fund Global Expansion
+             : Events in Europe/US (London, NYC, LA)
+             : Hybrid Metaverse x IRL Event Exploration
+
+    Q4 2026 : IO Beats Metaverse Music Festival
+             : Global Campaign with Major Artists
+             : Strategic Partnerships (Lifestyle + Tech)
+             : Global Recap Report + Sponsor Metrics
+             : Define 2027 Roadmap
 
 
 ---
