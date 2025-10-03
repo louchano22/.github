@@ -64,13 +64,7 @@ We provide **audit-ready documentation**, lock/vesting schedules, and public add
 [![Docs](https://img.shields.io/badge/Docs-Available-brightgreen.svg)](https://github.com/iobeatss/iobeats-docs)
 
 ---
-## 🗓 IO Beats — Global Roadmap (2025 → 2026)
 
-Building the future of music and Web3, one milestone at a time.  
-Our roadmap is designed to be **transparent, decentralized, and community-driven** —  
-uniting artists, fans, and partners across blockchain, DeFi, and real-world events.  
-
-```mermaid
 %%{init: {'theme': 'base', 'themeVariables': {
   'primaryColor': '#FF9012',
   'primaryTextColor': '#000000',
@@ -83,48 +77,51 @@ uniting artists, fans, and partners across blockchain, DeFi, and real-world even
 }}}%%
 
 timeline
-    title IO Beats Roadmap
+    title IO Beats Roadmap (2025 → 2026)
 
-    Q3 2025 : Multi-chain Presale (Base → BNB → ETH → Polygon → Arbitrum)
+    Q3 2025 : Multi-chain Presell (Base → BNB → ETH → Polygon → Arbitrum)
+             : Liquidity Activation after each presell
+             : Gamma/Beefy DeFi incentives
+             : Safe Multisig + Sablier Vesting
+             : Cross-chain Bridges (LayerZero/Stargate)
+             : Treasury repo proof updates
              : Multi-currency checkout (crypto + fiat)
-             : $IOB/WETH Liquidity on Aerodrome v3 (Base, veAERO rewards)
-             : Safe Multisig + Vesting Proofs
-             : In-player Ad System (banner, audio, video)
-             : Rooftop Tour Canada announced (venues, sponsors, ambassadors)
+             : In-player Ads (Beta)
+             : Rooftop Tour Canada announced
 
-    Q4 2025 : iO Beats DAO Governance voting live (Snapshot)
+    Q4 2025 : DAO Governance live (Snapshot)
              : Artist Verification + Ambassador Portal
-             : NFT Creator Studio (music, podcasts, exclusives)
-             : Launch Android App (Beta)
-             : Submit iOS App
+             : NFT Creator Studio
+             : Android App (Beta) + iOS App submission
              : BeatApe meme token utilities
-             : Events sponsor onboarding + promo campaigns
+             : Sponsor onboarding + promo campaigns
 
-    Q1 2026 : Vaults/Staking Launch (Beefy + Gamma)
-             : Cross-chain NFT Marketplace (ETH, BNB, Polygon, Base, Arbitrum)
-             : Dynamic NFT Royalties (cross-chain)
-             : iO Beats Player v2.0.73 Final Release
-             : Holder Loyalty Rewards (staking, NFT perks)
+    Q1 2026 : Vaults/Staking (Beefy + Gamma)
+             : Cross-chain NFT Marketplace
+             : Dynamic NFT Royalties
+             : iO Beats Player v2.0.73 Final
+             : Holder Loyalty Rewards
              : Web3 Streaming (IPFS/Arweave)
-             : NFT V3 Shareholder Pass + Merch campaign
-             : **Tier-2 CEX Listings (MEXC, Gate, Bitmart, etc.)**
+             : NFT V3 Shareholder Pass + Merch
+             : Tier-2 CEX Listings (MEXC, Gate, Bitmart)
 
-    Q2 2026 : Partnerships with music & Web3 brands
+    Q2 2026 : Tier-1 CEX Listings (Binance, Coinbase, KuCoin, Bybit, OKX)
+             : Partnerships with festivals & brands
              : AI Recommendations + NFT Fan Clubs
              : Community Expansion (Asia, MENA, EU)
-             : Rooftop Tour Canada (MTL 🎉, TO 🎶, VAN 🌆)
-             : Live Social Coverage + Exclusive NFT Drops
-             : **Tier-1 CEX Listings (Binance, Coinbase, KuCoin, Bybit, OKX)**
+             : Rooftop Tour Canada (MTL, TO, VAN)
+             : Live coverage + NFT drops
 
-    Q3 2026 : Community Feedback from Rooftop Tour
-             : DAO Proposal → Fund Global Expansion
-             : Events in Europe/US (London, NYC, LA)
-             : Hybrid Metaverse x IRL Event Exploration
+    Q3 2026 : DAO feedback Rooftop Tour
+             : DAO proposal: Fund EU/US events
+             : Events: London, NYC, LA
+             : Hybrid Metaverse x IRL tests
 
-    Q4 2026 : IO Beats Metaverse Music Festival
-             : Global Campaign with Major Artists
-             : Strategic Partnerships (Lifestyle + Tech)
-             : Global Recap Report + Sponsor Metrics
+    Q4 2026 : IO Beats Metaverse Festival
+             : Global campaign with major artists
+             : Strategic Lifestyle & Tech Partnerships
+             : Global recap + sponsor metrics
              : Define 2027 Roadmap
+
 
 ---
