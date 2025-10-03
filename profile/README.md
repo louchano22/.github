@@ -12,11 +12,12 @@ iO Beats is a next-generation Web3 music ecosystem uniting **NFTs**, **DeFi util
 ## 🔗 Quick Menu
 - **Repos:**  
   [IOB Smart Contracts](https://github.com/iobeatss/IOB-Smart-contract) ·
+  [Treasury](https://github.com/iobeatss/treasury)
   [iobeats-player](https://github.com/iobeatss/iobeats-player) ·
   [BeatsApe](https://github.com/iobeatss/BeatsApe) ·
   [iobeats-docs](https://github.com/iobeatss/iobeats-docs) ·
   [iobeats-logo-assets](https://github.com/iobeatss/iobeats-logo-assets) ·
-  [Treasury](https://github.com/iobeatss/treasury)
+
 
 - **Docs:**  
   [GitBook](https://whitepaper.iobeats.com/) ·
@@ -64,21 +65,20 @@ We provide **audit-ready documentation**, lock/vesting schedules, and public add
 
 ---
 
-## 🗓 Roadmap
+## 🗓 Roadmap (2025 → 2026)
 
-### ✅ Q4 2025
-- 🔥 **Multi-chain Presale** (Base → BNB → Ethereum → Polygon → Arbitrum)  
-- 🛡 **Safe Multisig + Vesting Proofs** publication  
-- 📊 **Community growth campaigns** (Telegram, X, QuestN)  
+```mermaid
+timeline
+    title IO Beats Roadmap
+    Q4 2025 : Multi-chain Presale (Base → BNB → ETH → Polygon → Arbitrum)
+             : Safe Multisig + Vesting Proofs
+             : Community Growth Campaigns
+    Q1 2026 : Mobile App Release (iOS & Android)
+             : Vaults/Staking Launch (Beefy + Gamma)
+             : Shopify + NFT Passes Integration
+    Q2 2026 : IO Beats Rooftop Events (Montreal, Toronto, Vancouver)
+             : Partnerships & Sponsorships
+             : DAO Governance Activation (Snapshot Voting)
 
-### 🚀 Q1 2026
-- 📲 **Mobile App Release** (iOS & Android)  
-- 💰 **Vaults/Staking Launch** (Beefy + Gamma integrations)  
-- 🛍 **Shopify + NFT Passes Integration** (claim merch & tickets via NFTs)  
-
-### 🌟 Q2 2026
-- 🎤 **IO Beats Rooftop Events** (Montreal, Toronto, Vancouver)  
-- 🤝 **Partnerships & Sponsorships** (Web3 + Music industry)  
-- 🗳 **DAO Governance Activation** (Snapshot voting, proposals)  
 
 ---
