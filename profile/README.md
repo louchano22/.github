@@ -65,20 +65,28 @@ We provide **audit-ready documentation**, lock/vesting schedules, and public add
 
 ---
 
-## 🗓 Roadmap (2025 → 2026)
+## 🗓 IO Beats Roadmap (Q4 2025 → Q2 2026)
 
 ```mermaid
 timeline
     title IO Beats Roadmap
+
     Q4 2025 : Multi-chain Presale (Base → BNB → ETH → Polygon → Arbitrum)
              : Safe Multisig + Vesting Proofs
-             : Community Growth Campaigns
+             : Release v1.0 Treasury Transparency Pack
+             : Lock vaults on all chains
+             : Publish audit reports & docs
+             : Marketing Campaigns (Landing, PR, KOLs, Community)
+
     Q1 2026 : Mobile App Release (iOS & Android)
              : Vaults/Staking Launch (Beefy + Gamma)
-             : Shopify + NFT Passes Integration
-    Q2 2026 : IO Beats Rooftop Events (Montreal, Toronto, Vancouver)
-             : Partnerships & Sponsorships
+             : Smart Contract Deployments (ERC-20, ERC-721 updates)
+             : Player v2.0.73 Final Release (Web + Mobile bridge)
              : DAO Governance Activation (Snapshot Voting)
 
+    Q2 2026 : IO Beats Rooftop Events (Montreal, Toronto, Vancouver)
+             : Partnerships & Sponsorships (Web3 + Music)
+             : Dune Dashboard for treasury & transparency
+             : Expanded DeFi integrations (yield, LP incentives)
 
 ---
