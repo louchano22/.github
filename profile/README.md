@@ -65,7 +65,7 @@ This roadmap provides a high-level view of IO Beats’ growth journey.
 - DAO Governance launch (Snapshot voting)  
 - NFT Creator Studio + Artist Verification  
 - Android App (Beta) + iOS Submission  
-- BeatApe token utilities  
+- BeatsApe token utilities  
 - Rooftop Tour Canada announcement + sponsor partnerships  
 
 ---
