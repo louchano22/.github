@@ -126,5 +126,4 @@ timeline
              : Strategic Partnerships (Lifestyle + Tech)
              : Global Recap Report + Sponsor Metrics
              : Define 2027 Roadmap
-
 ---
