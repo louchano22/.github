@@ -16,9 +16,7 @@ iO Beats is a next-generation Web3 music ecosystem uniting **NFTs**, **DeFi util
   [BeatsApe](https://github.com/iobeatss/BeatsApe) ·
   [iobeats-docs](https://github.com/iobeatss/iobeats-docs) ·
   [iobeats-logo-assets](https://github.com/iobeatss/iobeats-logo-assets) ·
-  [Treasury](https://github.com/iobeatss/treasury) ·
-  [iobeats-events](https://github.com/iobeatss/iobeats-events) ·
-  [iobeats-marketing](https://github.com/iobeatss/iobeats-marketing)
+  [Treasury](https://github.com/iobeatss/treasury)
 
 - **Docs:**  
   [GitBook](https://whitepaper.iobeats.com/) ·
@@ -40,7 +38,7 @@ iO Beats is a next-generation Web3 music ecosystem uniting **NFTs**, **DeFi util
 ---
 
 ## 💎 Treasury Transparency
-All treasury operations are managed with **multisig 4/7 Safe** across 5 chains: Ethereum, Base, Polygon, Arbitrum, BNB.
+All treasury operations are managed with **multisig 4/7 Safe** across 5 chains: Ethereum, Base, Polygon, Arbitrum, BNB.  
 We provide **audit-ready documentation**, lock/vesting schedules, and public addresses.
 
 📂 Explore our [Treasury Repository](https://github.com/iobeatss/treasury)
@@ -67,13 +65,20 @@ We provide **audit-ready documentation**, lock/vesting schedules, and public add
 ---
 
 ## 🗓 Roadmap
-### 🎯 Current
-- Mainnet launch / roll-out of live features
-- Platform stability & performance improvements
-- Community growth & engagement initiatives
 
-### 🔜 Next Up
-- Mobile app release (iOS & Android)
-- Expanded DeFi integrations & yield opportunities
-- DAO governance activation & voting mechanisms
-- Partnerships with Web3 projects and cross-chain collaborations
+### ✅ Q4 2025
+- 🔥 **Multi-chain Presale** (Base → BNB → Ethereum → Polygon → Arbitrum)  
+- 🛡 **Safe Multisig + Vesting Proofs** publication  
+- 📊 **Community growth campaigns** (Telegram, X, QuestN)  
+
+### 🚀 Q1 2026
+- 📲 **Mobile App Release** (iOS & Android)  
+- 💰 **Vaults/Staking Launch** (Beefy + Gamma integrations)  
+- 🛍 **Shopify + NFT Passes Integration** (claim merch & tickets via NFTs)  
+
+### 🌟 Q2 2026
+- 🎤 **IO Beats Rooftop Events** (Montreal, Toronto, Vancouver)  
+- 🤝 **Partnerships & Sponsorships** (Web3 + Music industry)  
+- 🗳 **DAO Governance Activation** (Snapshot voting, proposals)  
+
+---
