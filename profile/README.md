@@ -65,43 +65,6 @@ We provide **audit-ready documentation**, lock/vesting schedules, and public add
 
 ---
 
-# 🛠 On-Chain Roadmap  
-*Building the future of music and Web3, one milestone at a time — transparent, decentralized, and community-driven.*
 
----
-
-## 📌 Q3 2025 — Expansion & Liquidity Growth
-- **On-chain** → Launch **iO Beats Android App (Beta)**  
-- **Payments** → Multi-currency checkout (**crypto + fiat**)  
-- **DeFi (Base)** → Add **$IOB/WETH liquidity** on Aerodrome v3 with **veAERO rewards**, enabling cross-chain swaps via L2 bridges  
-- **Ads** → In-player ad system (banner, audio & video) for monetization & partner promotions  
-- **Events** → Rooftop events in **Montreal, Toronto, Vancouver**  
-
----
-
-## 📌 Q4 2025 — DAO & Creator Tools
-- **Creators** → Artist verification + **Influencer/Ambassador portal**  
-- **DAO** → **iO Beats DAO** governance voting goes live  
-- **NFT Studio** → Launch **Creator Studio** (music / podcasts / exclusives)  
-- **Token** → BeatApe meme token utilities  
-- **Mobile** → **iOS app submission**  
-
----
-
-## 📌 Q1 2026 — DeFi + Music Fusion
-- **NFT Cross-chain** → Cross-chain NFT marketplace (**ETH, BNB, Polygon, Base, Arbitrum**)  
-- **Royalties** → Dynamic NFT royalties (cross-chain support)  
-- **Loyalty** → Holder **loyalty rewards**  
-- **Infra** → Web3 streaming powered by **IPFS / Arweave**  
-
----
-
-## 📌 Q2 2026 — Global Scale
-- **Growth** → Target **Tier-1 CEX listings**  
-- **Partnerships** → Major **festival & brand partnerships**  
-- **AI + NFT** → AI-powered recommendations & NFT fan clubs  
-- **Community** → Regional expansion in **Asia, MENA & EU**  
-
----
 
 ---
