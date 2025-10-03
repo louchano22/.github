@@ -98,35 +98,38 @@ This roadmap provides a high-level view of IO Beats’ growth journey.
 
 ## 📊 Visual Roadmap
 
+**Status legend:** ✅ Done · 🟡 In Progress · ⏳ Planned
+
 ```mermaid
+%% lisible sur GitHub
 timeline
-    title IO Beats Global Roadmap (2025 → 2026)
+    title IO Beats — Global Roadmap (2025 → 2026)
 
-    Q3 2025 : Multi-chain Presale (Base, BNB, ETH, Polygon, Arbitrum)
-             : Safe Multisig (4/7) + Sablier Vesting
-             : Liquidity Activation + DeFi Incentives
-             : Transparency Docs Published
+    Q3 2025 : Multi-chain Presale kickoff (Base → BNB → ETH → Polygon → Arbitrum) 🟡
+             : Safe Multisig (4/7) ✅
+             : Sablier Vesting Flow (team & advisors) ✅
+             : Liquidity activation after each presell (Gamma/Beefy) 🟡
+             : Transparency docs published (Appendix B, Lock Strategy, proofs) ✅
 
-    Q4 2025 : DAO Governance Launch
-             : NFT Creator Studio + Artist Verification
-             : Android App (Beta) + iOS Submission
-             : BeatApe Token Utilities
-             : Rooftop Tour Canada Announcement
+    Q4 2025 : Android App (Beta) 🟡
+             : iOS App submission ⏳
+             : NFT Creator Studio + Artist Verification ⏳
+             : Rooftop Tour Canada — announcement & sponsors 🟡
+             : DAO Governance (Snapshot setup & prep) 🟡
 
-    Q1 2026 : Vaults/Staking (Beefy + Gamma)
-             : Cross-chain NFT Marketplace
-             : Dynamic NFT Royalties
-             : Loyalty Rewards Program
-             : Tier-2 CEX Listings
+    Q1 2026 : Vaults & Staking integrations (Beefy + Gamma) ⏳
+             : Cross-chain NFT Marketplace ⏳
+             : Dynamic NFT royalties (cross-chain) ⏳
+             : Holder Loyalty program (rewards & perks) ⏳
+             : Tier-2 CEX listings (MEXC, Gate, Bitmart) ⏳
 
-    Q2 2026 : Rooftop Tour Canada (MTL, TO, VAN)
-             : NFT Drops for Attendees
-             : Tier-1 CEX Listings
-             : Festival & Brand Partnerships
-             : AI Recos + NFT Fan Clubs
+    Q2 2026 : Rooftop Tour Canada events (Montréal, Toronto, Vancouver) ⏳
+             : Live NFT drops for attendees ⏳
+             : Tier-1 CEX listings (Binance, Coinbase, KuCoin, Bybit, OKX) ⏳
+             : Festival & brand partnerships ⏳
+             : AI recommendations + NFT fan clubs ⏳
 
-    Q3–Q4 2026 : DAO Expansion (EU/US events)
-                : Hybrid Metaverse × IRL Events
-                : IO Beats Metaverse Music Festival
-                : Global Partnerships
-                : Roadmap 2027
+    Q3–Q4 2026 : DAO expansion (EU/US events) ⏳
+                : Hybrid Metaverse × IRL events (pilots) ⏳
+                : IO Beats Metaverse Music Festival ⏳
+                : Global campaign & transparency recap ⏳
