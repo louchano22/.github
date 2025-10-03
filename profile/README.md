@@ -64,71 +64,90 @@ We provide **audit-ready documentation**, lock/vesting schedules, and public add
 [![Docs](https://img.shields.io/badge/Docs-Available-brightgreen.svg)](https://github.com/iobeatss/iobeats-docs)
 
 ---
-## 🗓 IO Beats — Global Roadmap (2025 → 2026)
+## 🗓 Global Roadmap
 
-Building the future of music and Web3, one milestone at a time.  
-Our roadmap is designed to be **transparent, decentralized, and community-driven** —  
-uniting artists, fans, and partners across blockchain, DeFi, and real-world events.  
+Building the future of **music × Web3 × DeFi**, one milestone at a time.  
+This roadmap provides a high-level view of IO Beats’ growth journey.
+
+---
+
+### ✅ Q3 2025 — Foundation & Transparency
+- Multi-chain Presale (Base, BNB, ETH, Polygon, Arbitrum)
+- Safe Multisig (4/7) + Sablier Vesting for team/advisors
+- Liquidity activation per chain with DeFi incentives (Gamma / Beefy)
+- Transparency docs (Appendix B, Lock Strategy, Proofs)
+
+---
+
+### 🚀 Q4 2025 — DAO & Mobile
+- DAO Governance launch (Snapshot voting)
+- NFT Creator Studio + Artist Verification
+- Android App (Beta) + iOS Submission
+- BeatApe token utilities
+- Rooftop Tour Canada announcement + sponsor partnerships
+
+---
+
+### 🟡 Q1 2026 — DeFi & Marketplace
+- Vaults & Staking (Beefy + Gamma)
+- Cross-chain NFT Marketplace
+- Dynamic NFT Royalties
+- Loyalty rewards for holders
+- Tier-2 CEX Listings (MEXC, Gate, Bitmart)
+
+---
+
+### 🌍 Q2 2026 — Scale & Events
+- Rooftop Tour Canada (Montreal, Toronto, Vancouver)
+- Live NFT drops for event attendees
+- Tier-1 CEX Listings (Binance, Coinbase, KuCoin, Bybit, OKX)
+- Partnerships with major festivals & brands
+- AI-powered recommendations + NFT fan clubs
+
+---
+
+### 🌐 Q3–Q4 2026 — Global Expansion
+- DAO-driven proposals for EU/US events
+- Hybrid Metaverse × IRL events
+- IO Beats Metaverse Music Festival
+- Strategic lifestyle & tech brand partnerships
+- Global recap report & roadmap for 2027
+
+---
+
+## 📊 Visual Roadmap
 
 ```mermaid
-
-%%{init: {'theme': 'base', 'themeVariables': {
-  'primaryColor': '#FF9012',
-  'primaryTextColor': '#000000',
-  'primaryBorderColor': '#FF9012',
-  'lineColor': '#333333',
-  'secondaryColor': '#FFD29A',
-  'tertiaryColor': '#FFFFFF',
-  'noteBkgColor': '#F3F4F6',
-  'noteTextColor': '#111111'
-}}}%%
-
 timeline
-    title IO Beats Roadmap (2025 → 2026)
+    title IO Beats Global Roadmap (2025 → 2026)
 
-    Q3 2025 : Multi-chain Presell (Base → BNB → ETH → Polygon → Arbitrum)
-             : Liquidity Activation after each presell
-             : Gamma/Beefy DeFi incentives
-             : Safe Multisig + Sablier Vesting
-             : Cross-chain Bridges (LayerZero/Stargate)
-             : Treasury repo proof updates
-             : Multi-currency checkout (crypto + fiat)
-             : In-player Ads (Beta)
-             : Rooftop Tour Canada announced
+    Q3 2025 : Multi-chain Presale (Base, BNB, ETH, Polygon, Arbitrum)
+             : Safe Multisig (4/7) + Sablier Vesting
+             : Liquidity Activation + DeFi Incentives
+             : Transparency Docs Published
 
-    Q4 2025 : DAO Governance live (Snapshot)
-             : Artist Verification + Ambassador Portal
-             : NFT Creator Studio
-             : Android App (Beta) + iOS App submission
-             : BeatApe meme token utilities
-             : Sponsor onboarding + promo campaigns
+    Q4 2025 : DAO Governance Launch
+             : NFT Creator Studio + Artist Verification
+             : Android App (Beta) + iOS Submission
+             : BeatApe Token Utilities
+             : Rooftop Tour Canada Announcement
 
     Q1 2026 : Vaults/Staking (Beefy + Gamma)
              : Cross-chain NFT Marketplace
              : Dynamic NFT Royalties
-             : iO Beats Player v2.0.73 Final
-             : Holder Loyalty Rewards
-             : Web3 Streaming (IPFS/Arweave)
-             : NFT V3 Shareholder Pass + Merch
-             : Tier-2 CEX Listings (MEXC, Gate, Bitmart)
+             : Loyalty Rewards Program
+             : Tier-2 CEX Listings
 
-    Q2 2026 : Tier-1 CEX Listings (Binance, Coinbase, KuCoin, Bybit, OKX)
-             : Partnerships with festivals & brands
-             : AI Recommendations + NFT Fan Clubs
-             : Community Expansion (Asia, MENA, EU)
-             : Rooftop Tour Canada (MTL, TO, VAN)
-             : Live coverage + NFT drops
+    Q2 2026 : Rooftop Tour Canada (MTL, TO, VAN)
+             : NFT Drops for Attendees
+             : Tier-1 CEX Listings
+             : Festival & Brand Partnerships
+             : AI Recos + NFT Fan Clubs
 
-    Q3 2026 : DAO feedback Rooftop Tour
-             : DAO proposal: Fund EU/US events
-             : Events: London, NYC, LA
-             : Hybrid Metaverse x IRL tests
-
-    Q4 2026 : IO Beats Metaverse Festival
-             : Global campaign with major artists
-             : Strategic Lifestyle & Tech Partnerships
-             : Global recap + sponsor metrics
-             : Define 2027 Roadmap
-
+    Q3–Q4 2026 : DAO Expansion (EU/US events)
+                : Hybrid Metaverse × IRL Events
+                : IO Beats Metaverse Music Festival
+                : Global Partnerships
+                : Roadmap 2027
 
 ---
