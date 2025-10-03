@@ -57,6 +57,7 @@ This roadmap provides a high-level view of IO Beats’ growth journey.
 - Safe Multisig (4/7) + Sablier Vesting for team/advisors  
 - Liquidity activation per chain with DeFi incentives (Gamma / Beefy)  
 - Transparency docs (Appendix B, Lock Strategy, Proofs)  
+- Drafting of new **Whitepaper (Tokenomics & Governance)**  
 
 ---
 
@@ -110,6 +111,7 @@ timeline
              : Sablier Vesting Flow (team & advisors) ✅
              : Liquidity activation after each presell (Gamma/Beefy) 🟡
              : Transparency docs published (Appendix B, Lock Strategy, proofs) ✅
+             : Whitepaper (Tokenomics & Governance) Drafting 🟡
 
     Q4 2025 : Android App (Beta) 🟡
              : iOS App submission ⏳
