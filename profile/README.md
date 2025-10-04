@@ -8,7 +8,7 @@
 
 [![Audit](https://img.shields.io/badge/Audit-Cyberscope-brightgreen.svg)](https://raw.githubusercontent.com/cyberscope-io/audits/main/iob/audit.pdf)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/iobeatss/IOB-Smart-contract/blob/main/LICENSE)
-[![Deployment](https://img.shields.io/badge/Deployed-MultiChain-purple.svg)](https://github.com/iobeatss/treasury)
+[![Deployment](https://github.com/iobeatss/IOB-Smart-contract/blob/main/MULTICHAIN.md)
 
 > Empowering artists and communities through Web3 music, NFTs, and DeFi.  
 > 🔗 **Quick links:** [Website](https://iobeats.com) · [Marketplace](https://open.iobeats.com) · [Docs](https://whitepaper.iobeats.com) · [Discord](https://discord.com/invite/rQSCaxPNs5)
