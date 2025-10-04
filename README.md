@@ -14,7 +14,7 @@ iO Beats is a next-generation Web3 music ecosystem uniting **NFTs**, **DeFi util
 [![Deployment](https://img.shields.io/badge/Deployed-MultiChain-purple.svg)](https://github.com/iobeatss/IOB-Smart-contract#deployment)
 [![Docs](https://img.shields.io/badge/Docs-Available-brightgreen.svg)](https://github.com/iobeatss/iobeats-docs)
 ## 🔗 Quick Menu
-- **Repos:** [Smart Contracts](https://github.com/iobeatss/IOB-Smart-contract) · [BeatsApe](https://github.com/iobeatss/BeatsApe) · [Docs](https://github.com/iobeatss/iobeats-docs) · [Logo Assets](https://github.com/iobeatss/iobeats-logo-assets) · [Treasury](https://github.com/iobeatss/treasury)
+- **Repos:** [Smart Contracts](https://github.com/iobeatss/IOB-Smart-contract) · [Treasury](https://github.com/iobeatss/treasury) · [BeatsApe](https://github.com/iobeatss/BeatsApe) · [Docs](https://github.com/iobeatss/iobeats-docs) · [Logo Assets](https://github.com/iobeatss/iobeats-logo-assets)
 - **Docs:** [GitBook](https://whitepaper.iobeats.com/) · [Whitepaper](https://open.iobeats.com/doc/iobeats-white-paper.pdf) · [Pitch Deck](https://open.iobeats.com/doc/iobeats-pitch-deck.pdf) · [Governance Plan](https://open.iobeats.com/doc/iobeats-Governance-plan.pdf) · [Token Distribution](https://open.iobeats.com/doc/iobeats-token-distribution.pdf)
 
 ---
