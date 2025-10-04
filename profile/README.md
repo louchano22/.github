@@ -11,7 +11,7 @@
 [![Deployment](https://img.shields.io/badge/Deployed-MultiChain-purple.svg)](https://github.com/iobeatss/treasury)
 
 > Empowering artists and communities through Web3 music, NFTs, and DeFi.  
-> 🔗 **Quick links:** [Website](https://iobeats.com) · [Marketplace](https://open.iobeats.com) · [Docs](https://whitepaper.iobeats.com) · [Discord](https://discord.com/invite/oSCaXPxN5S)
+> 🔗 **Quick links:** [Website](https://iobeats.com) · [Marketplace](https://open.iobeats.com) · [Docs](https://whitepaper.iobeats.com) · [Discord](https://discord.com/invite/rQSCaxPNs5)
 
 ---
 
