@@ -121,11 +121,11 @@ timeline
 
     Q4 2025 : Android App (Beta) 🟡
              : iOS App submission ⏳
-             : NFT Creator Studio + Artist Verification ⏳
+             : NFT Creator Studio + Artist Verification 🟡
              : Rooftop Tour Canada — announcement & sponsors 🟡
              : DAO Governance (Snapshot setup & prep) 🟡
 
-    Q1 2026 : Vaults & Staking integrations (Beefy + Gamma) ⏳
+    Q1 2026 : Vaults & Staking integrations (Beefy + Gamma) 🟡
              : Cross-chain NFT Marketplace ⏳
              : Dynamic NFT royalties (cross-chain) ⏳
              : Holder Loyalty program (rewards & perks) ⏳
