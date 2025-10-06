@@ -47,10 +47,11 @@
 ---
 
 ## 💎 Treasury Transparency
-All treasury operations are managed with **multisig 4/7 Safe** across 5 chains: Ethereum, Base, Polygon, Arbitrum, BNB.  
-We provide **audit-ready documentation**, lock/vesting schedules, and public addresses.  
+All treasury operations are managed with a **4/7 multisig Safe** across all chains.  
+Every wallet, vesting flow, and allocation is **publicly verifiable and audited**.  
 
-📂 Explore our [Treasury Repository](https://github.com/iobeatss/treasury)
+📂 Explore: [Treasury Transparency Repo](https://github.com/iobeatss/treasury)  
+📊 Live: [Dune Dashboard](https://dune.com/iobeats/dao-treasury)
 
 ---
 
