@@ -10,10 +10,12 @@
 [![Solidity](https://img.shields.io/badge/Solidity-0.8.24-blue.svg?logo=solidity)](https://docs.soliditylang.org/en/v0.8.24/)
 [![Deployment](https://img.shields.io/badge/Deployed-MultiChain-purple.svg)](https://github.com/iobeatss/IOB-Smart-contract#deployment)
 [![Docs](https://img.shields.io/badge/Docs-Available-brightgreen.svg)](https://github.com/iobeatss/iobeats-docs)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Community-blue?logo=discord&logoColor=white)](https://discord.com/invite/rQSCaxPNs5)
-[![Telegram](https://img.shields.io/badge/Telegram-Community-blue?logo=telegram&logoColor=white)](https://t.me/iobeatscommunity)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?logo=discord&logoColor=white)](https://discord.com/invite/rQSCaxPNs5)
+[![Telegram](https://img.shields.io/badge/Telegram-Community-26A5E4?logo=telegram&logoColor=white)](https://t.me/iobeatscommunity)
+[![Reddit](https://img.shields.io/badge/Reddit-r/io_beats-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/r/io_beats/)
 [![Stars](https://img.shields.io/github/stars/iobeatss?style=social)](https://github.com/iobeatss)
 [![Twitter Follow](https://img.shields.io/twitter/follow/iobeats?style=social)](https://twitter.com/iobeats)
+
 
 
 > Empowering artists and communities through Web3 music, NFTs, and DeFi.  
