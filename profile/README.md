@@ -10,6 +10,8 @@
 [![Solidity](https://img.shields.io/badge/Solidity-0.8.24-blue.svg?logo=solidity)](https://docs.soliditylang.org/en/v0.8.24/)
 [![Deployment](https://img.shields.io/badge/Deployed-MultiChain-purple.svg)](https://github.com/iobeatss/IOB-Smart-contract#deployment)
 [![Docs](https://img.shields.io/badge/Docs-Available-brightgreen.svg)](https://github.com/iobeatss/iobeats-docs)
+[![Stars](https://img.shields.io/github/stars/iobeatss?style=social)](https://github.com/iobeatss)
+[![Twitter Follow](https://img.shields.io/twitter/follow/iobeats?style=social)](https://twitter.com/iobeats)
 
 > Empowering artists and communities through Web3 music, NFTs, and DeFi.  
 
