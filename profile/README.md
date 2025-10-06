@@ -14,6 +14,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/iobeats?style=social)](https://twitter.com/iobeats)
 
 > Empowering artists and communities through Web3 music, NFTs, and DeFi.  
+> From the first beat to the blockchain — **one team, one dream.**
 
 ---
 
