@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/iobeatss/iobeats-logo-assets/main/hero1.gif"
+  <img src="https://raw.githubusercontent.com/iobeatss/iobeats-logo-assets/main/hero1.gif?raw=true"
        alt="IO Beats Banner" width="100%" />
 </p>
 
@@ -12,21 +12,20 @@
 [![Dune Dashboard](https://img.shields.io/badge/Analytics-Dune-orange?logo=dune&logoColor=white)](https://dune.com/iobeats_dao)
 [![Deployment](https://img.shields.io/badge/Deployed-MultiChain-purple.svg)](https://github.com/iobeatss/IOB-Smart-contract#deployment)
 [![Docs](https://img.shields.io/badge/Docs-Available-brightgreen.svg)](https://github.com/iobeatss/iobeats-docs)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?logo=discord&logoColor=white)](https://discord.com/invite/rQSCaxPNs5)
 [![Telegram](https://img.shields.io/badge/Telegram-Community-26A5E4?logo=telegram&logoColor=white)](https://t.me/iobeatscommunity)
 [![Reddit](https://img.shields.io/badge/Reddit-r/io_beats-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/r/io_beats/)
 [![Stars](https://img.shields.io/github/stars/iobeatss?style=social)](https://github.com/iobeatss)
 [![Twitter Follow](https://img.shields.io/twitter/follow/iobeats?style=social)](https://twitter.com/iobeats)
 
-
-
 > Empowering artists and communities through Web3 music, NFTs, and DeFi.  
 > From the first beat to the blockchain — **one team, one dream.**
 
 ---
 
-
 ## 🔗 Quick Menu
+
 - **Repos:**  
   [IOB Smart Contracts](https://github.com/iobeatss/IOB-Smart-contract) ·
   [Treasury](https://github.com/iobeatss/treasury) ·
@@ -40,7 +39,11 @@
   [Whitepaper (PDF)](https://open.iobeats.com/doc/iobeats-white-paper.pdf) ·
   [Pitch Deck (PDF)](https://open.iobeats.com/doc/iobeats-pitch-deck.pdf) ·
   [Governance (PDF)](https://open.iobeats.com/doc/iobeats-Governance-plan.pdf) ·
-  [Token Distribution (PDF)](https://open.iobeats.com/doc/iobeats-token-distribution.pdf)
+  [Token Distribution (PDF)](https://open.iobeats.com/doc/iobeats-token-distribution.pdf)  
+
+- **Governance:**  
+  [Snapshot DAO](https://snapshot.box/#/s:iobdao.eth) ·
+  [Governance Hub](https://governance.iobeats.com/)  
 
 ---
 
@@ -113,13 +116,16 @@ This roadmap provides a high-level view of IO Beats’ growth journey.
 - Strategic lifestyle & tech brand partnerships  
 - Global recap report & roadmap for 2027  
 
+> 🎧 The rhythm continues — powered by community, transparency, and innovation.
+
 ---
 
 ## 📊 Visual Roadmap
 
-**Legend:** ✅ Done · 🟡 In Progress · ⏳ Planned
+**Legend:** ✅ Done · 🟡 In Progress · ⏳ Planned  
 
 ```mermaid
+%%{init: {'theme': 'neutral'}}%%
 timeline
     title IO Beats — Global Roadmap (2025 → 2026)
 
