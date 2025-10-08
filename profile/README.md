@@ -42,8 +42,7 @@
   [Token Distribution (PDF)](https://open.iobeats.com/doc/iobeats-token-distribution.pdf)  
 
 - **Governance:**  
-  [Snapshot DAO](https://snapshot.box/#/s:iobdao.eth) ·
-  [Governance Hub](https://open.iobeats.com/governance)  
+  [Snapshot DAO](https://snapshot.box/#/s:iobdao.eth) 
 
 ---
 
