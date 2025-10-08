@@ -43,7 +43,7 @@
 
 - **Governance:**  
   [Snapshot DAO](https://snapshot.box/#/s:iobdao.eth) ·
-  [Governance Hub](https://governance.iobeats.com/)  
+  [Governance Hub](https://open.iobeats.com/governance)  
 
 ---
 
