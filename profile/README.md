@@ -60,7 +60,7 @@
 All treasury operations are managed with a **4/7 multisig Safe** across all chains.  
 Every wallet, vesting flow, and allocation is **publicly verifiable and audited**.  
 
-📂 Explore: [Treasury Transparency Repo](https://github.com/iobeatss/treasury)  
+📂 Explore: [Treasury Transparency Repo](https://github.com/iobeatss/treasury/tree/main/docs/transparency)  
 📊 Live: [Dune Dashboard](https://dune.com/iobeats_dao)
 
 ---
